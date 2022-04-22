@@ -12,7 +12,6 @@ class Screen extends StatelessWidget{
         backgroundColor: Colors.red,
         title: Center( 
           child: new Text("CHI TIẾT NHÀ HÀNG"),
-         
         )
       ),
       body: Padding(
